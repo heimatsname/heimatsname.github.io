@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tort.html",
+    "currentPage": "titul.html",
     "name": "Пряники",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 47,
+    "uniqCompNum": 55,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -126,8 +126,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"titul.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Пряники</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#gallery3-1\">Пряники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tort.html\">Торты</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"master.html\" aria-expanded=\"false\">Мастерклассы</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\">По Мурманской области</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"zakaz.html\" aria-expanded=\"false\">Заказ и доставка</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#contacts2-w\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"zakaz.html\">Заказать</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"titul.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Пряники и торты</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#gallery3-1\">Пряники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tort.html\">Торты</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"master.html\" aria-expanded=\"false\">Мастерклассы</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"zakaz.html\" aria-expanded=\"false\">Заказ и доставка</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#contacts2-w\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"zakaz.html\">Заказать</a></li>"
         },
         {
           "_name": "header1",
@@ -195,7 +195,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4cxhqo0az1s-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/4cxhqo0az1s-2000x1500.jpg",
-                "caption": "1. Торсы",
+                "caption": "1. Торсы 100 рублей",
                 "active": false
               },
               {
@@ -205,7 +205,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1803-800x721.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1803.jpg",
-                "caption": "2. Птички",
+                "caption": "2. Птички 400 рублей",
                 "active": false
               },
               {
@@ -215,7 +215,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/image-0-02-05-7af8b282b6ea7bad296c48ffeba5b71ab72d47d2874e892717da69ae5df49f33-v-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/image-0-02-05-7af8b282b6ea7bad296c48ffeba5b71ab72d47d2874e892717da69ae5df49f33-v-2000x1500.jpg",
-                "caption": "3. Сердца",
+                "caption": "3. Сердца 500 рублей",
                 "active": false
               },
               {
@@ -225,7 +225,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1832-800x732.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1832.jpg",
-                "caption": "4. Любимому папе",
+                "caption": "4. Любимому папе 500 рублей",
                 "active": false
               },
               {
@@ -235,7 +235,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1637-800x654.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1637.jpg",
-                "caption": "5. Супергерой",
+                "caption": "5. Супергерой 300 рублей",
                 "active": false
               },
               {
@@ -245,7 +245,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1981-800x792.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1981.jpg",
-                "caption": "7. Хеннесси и авто",
+                "caption": "7. Хеннесси и авто 350 рублей",
                 "active": true
               },
               {
@@ -255,7 +255,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1788-800x715.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1788.jpg",
-                "caption": "6. Чайный набор",
+                "caption": "6. Чайный набор 400 рублей",
                 "active": false
               },
               {
@@ -495,17 +495,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/image-0-02-05-d9c3d02dda401d30af2db8c94bc8017804b03da310ff8e934e3b9702da0b3856-v-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/image-0-02-05-d9c3d02dda401d30af2db8c94bc8017804b03da310ff8e934e3b9702da0b3856-v-2000x2666.jpg",
                 "caption": "25. Флаг",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1676-800x670.png",
-                "image": "@PROJECT_PATH@/assets/images/2000x16763.png",
-                "caption": "26. Сердечки",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/hrizf-agym8-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hrizf-agym8-2000x1500.jpg",
+                "caption": "26. Шкатулка с сюрпризом",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -571,13 +571,76 @@
           "allItem": "All"
         },
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5ofyqeorxtg-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5ofyqeorxtg-2000x2000.jpg",
+                "caption": "31. Новогодние",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/awnr1sod7xm-2000x1324-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/awnr1sod7xm-2000x1324.jpg",
+                "caption": "32. Свадебный пряник с пожеланием",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fjcbbz01k8s-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fjcbbz01k8s-2000x2000.jpg",
+                "caption": "<p>33. Лавандовое сердце</p>",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/refjatqte6m-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/refjatqte6m-2000x2000.jpg",
+                "caption": "34. Снеговичок",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1b",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials1",
           "testimonial": [
             {
-              "text": "<p>Это очень вкусно, просто вырви зубы!!!</p>",
+              "text": "<p>Это очень вкусно!!!</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
@@ -591,8 +654,8 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Abanoub S.",
-              "authorBio": "Никель"
+              "authorName": "Надежда Олеговна",
+              "authorBio": "Ковдор"
             },
             {
               "text": "Когда ела этот пряник - плакала! Такая красота!!!",
@@ -605,22 +668,26 @@
                   "active": true
                 }
               },
-              "authorName": "Suffian A.",
-              "authorBio": "Алакуртти"
+              "authorName": "Александра",
+              "authorBio": "Ковдор"
             },
             {
-              "text": "<p>Это лучшее, что я видела в своей жизни!</p>",
+              "text": "<p>Красивые пряники с имбирным вкусом, очень приятно было получить этот подарок на новый год!</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/rr3snz1-pvw-120x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               },
-              "authorName": "Jhollman C.",
-              "authorBio": "Мурманск"
+              "authorName": "Евгений",
+              "authorBio": "Рязань"
             }
           ],
           "_anchor": "testimonials1-t",
@@ -668,7 +735,7 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "Расскажи о нас! Прянички от Танечки! Не грусти, лучше зубом похрусти!!!"
+          "text": "Расскажи о нас! Пряники и Торты от Танечки! Не грусти, лучше пряником похрусти!!!"
         },
         {
           "_tags": [
@@ -696,14 +763,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Россия, Мурманская область, г. Никель, улица Спортивная, д.8",
-              "placeId": "ChIJUXIDqNCrNEQR4oN9kHgPPis",
+              "address": "Россия, Мурманская область, г. Никель",
+              "placeId": "ChIJyZo-p3ypNEQR8eXJet5oLQA",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Адрес</b></span></font><br>Россия, Мурманская область, г. Никель, улица Спортивная, д.8<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Контакты</b></span></font><br>\nEmail: birdutka@list.ru<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">В контакте:&nbsp;vk.com/id5499756</span><br>Instagram:&nbsp;tatianapetresku<br><br>",
-          "text2": "<ul><p></p><li><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Как заказать?&nbsp;</b></span></font></li><p>&nbsp; В данный момент заказы принимаются только по телефону, в контакте, в Instagram или по электронной почте.<br></p><p>Заказывайте заранее - время требуется не только на приготовление изделия, но и на поиск ингредиентов!</p><p>Доставка Почтой России примерно 300 рублей.</p><p><br></p></ul>"
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Адрес</b></span></font><br>Россия, Мурманская область, г. Никель<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Контакты</b></span></font><br>\nEmail: birdutka@list.ru<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">В контакте:&nbsp;vk.com/id5499756</span><br>Instagram:&nbsp;tatianapetresku<br><br>",
+          "text2": "<ul><p></p><li><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Как заказать?&nbsp;</b></span></font></li><p>&nbsp; В данный момент заказы принимаются только по телефону, в контакте, в Instagram или по электронной почте.<br></p><p>Заказывайте заранее - время требуется не только на приготовление изделия, но и на поиск ингредиентов!</p><p>Доставка тортов по Никелю, Заполярному, Печенге, Мурманску. Доставка оплачивается дополнительно. Возможна, доставка пряников почтой России.</p><p><br></p></ul>"
         }
       ]
     },
@@ -801,8 +868,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"titul.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Пряники</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#gallery3-1\">Пряники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tort.html\">Торты</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"master.html\" aria-expanded=\"false\">Мастерклассы</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\">По Мурманской области</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"zakaz.html\" aria-expanded=\"false\">Заказ и доставка</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#contacts2-w\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"zakaz.html\">Заказать</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"titul.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Пряники и торты</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#gallery3-1\">Пряники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tort.html\">Торты</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"master.html\" aria-expanded=\"false\">Мастерклассы</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"zakaz.html\" aria-expanded=\"false\">Заказ и доставка</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#contacts2-w\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"zakaz.html\">Заказать</a></li>"
         },
         {
           "_name": "footer1",
@@ -831,7 +898,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/image-37504137dc990cb32619423ae7cc4d395c068c86ff9cdf7f0d18d3895de39713-v-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/zz-r8asaa7a-2000x2000.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -847,7 +914,7 @@
             "showButtons": true
           },
           "title": "Тортики от Танечки",
-          "text": "Доставка тортов ограничена Мурманской областью в связи со сложностью блюда. Все наши тортики только из домашних продуктов, красивые и о-о-очень вкусные!!!",
+          "text": "Доставка тортов ограничена Мурманской областью в связи со сложностью блюда. Все наши тортики только из домашних продуктов, состав зависит от вашего желания. Наши торты красивые и о-о-очень вкусные!!!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"titul.html\" data-toolbar=\"-mbrBtnMove\">Пряники</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tort.html#features3-j\" data-toolbar=\"-mbrBtnMove\">Тортики</a>"
         },
         {
@@ -871,7 +938,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "6",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -896,7 +963,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image-37504137dc990cb32619423ae7cc4d395c068c86ff9cdf7f0d18d3895de39713-v-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dhokqdorvaa-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -906,9 +973,9 @@
               "linkInNewWindow": true
             }
           },
-          "title2": "Йогуртовое объедение",
+          "title2": "Бисквитно-сливочный торт",
           "subtitle2": "2000 рублей/ 40 euro",
-          "caption2": "И вкус, и оформление торта не оставит равнодушным никого",
+          "caption2": "Клубника со сливками, ммм...",
           "button2": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-o\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media3": {
             "image": {
@@ -928,7 +995,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2-600x548.png",
+              "src": "@PROJECT_PATH@/assets/images/wvnnhmfaaci-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -938,10 +1005,10 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Valentin day",
+          "title4": "Сникерс",
           "subtitle4": "2500 рублей",
-          "caption4": "Не нужно слов, подари сердце!!!",
-          "button4": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-q\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "caption4": "Торт для энергичных и удачных людей, которые везде успевают.",
+          "button4": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/2-600x5484.png",
@@ -974,6 +1041,242 @@
           "subtitle6": "1000 рублей",
           "caption6": "С миндальным натурельным заварным кремом",
           "button6": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gu5kqppzxyg-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Наполеон",
+          "subtitle1": "",
+          "caption1": "с заварным кремом со вкусом фисташкового мороженого",
+          "button1": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jvgymmxf1du-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Морковный торт",
+          "subtitle2": "",
+          "caption2": "В левую руку возьмём обычную морковку, а в правую кусочек этого торта... Да-да, они родственники.<br>И более того - это очень вкусно.",
+          "button2": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lxhobuq0ony-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Красный бархат в изумрудном исполнении",
+          "subtitle3": "",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Мягкие сочные нежные коржи с крем-чизом</span><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/odo-pdzzjxo-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Муссовый торт \"Слоеный\"",
+          "subtitle4": "",
+          "caption4": "Шоколадный и ванильный муссы на нежном бисквитном корже никого не оставят равнодушными. Поистине, райское наслаждение.",
+          "button4": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/3yqIuC1P-nE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3h2ofelqz5q-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Сердце",
+          "subtitle1": "Мусовый торт",
+          "caption1": "Не нужно слов, чтобы выразить свои чувства.",
+          "button1": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-q\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3qpya9rbpga-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Сердце",
+          "subtitle2": "Мусовый торт",
+          "caption2": "Необычный способ заявить о себе. Состав торта подбирается по желанию заказчика. Это может быть и кофейный бисквит, и обычный. Муссы также могут отличаться: ванильный или шоколадный",
+          "button2": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/image-0-02-05-99018f716354ebf1cf3cc748f4762b6529fdc1bfb6b0d0326aed52b2398ee291-v-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Зеркальный мусовый торт",
+          "subtitle3": "",
+          "caption3": "Нежный бисквитный корж с шоколадным или ванильным муссом. Да еще и зеркальная глазурь.",
+          "button3": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-s\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zz-r8asaa7a-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Медовик",
+          "subtitle4": "",
+          "caption4": "Классические медовые коржи пропитанные нежным сметанным кремом",
+          "button4": "<a data-app-btn=\"true\" href=\"zakaz.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Заказать</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1025,7 +1328,7 @@
             }
           },
           "title": "Гранатовый забор",
-          "text": "Состав: Огурцы, помидоры, майонез и немножечко граната.<br>",
+          "text": "Состав: ванильные коржи, вишневое суфле, сливочно-творожный крем<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
         },
         {
@@ -1059,7 +1362,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/image-37504137dc990cb32619423ae7cc4d395c068c86ff9cdf7f0d18d3895de39713-v-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dhokqdorvaa-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1077,8 +1380,8 @@
               "size": 0
             }
           },
-          "title": "Йогуртовое объедение",
-          "text": "Состав: йогурт, и немножко &nbsp;кексов)",
+          "title": "Бисквитно-сливочный торт",
+          "text": "Состав: ванильный бисквит, сливочно-творожный крем. Фрукты/ягоды",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
         },
         {
@@ -1131,7 +1434,7 @@
             }
           },
           "title": "Новогодняя ночь",
-          "text": "Состав: ёлки, зеленые снежинки, мандарины и маршмалоу",
+          "text": "Состав: морковный торт с новогодним оформлением: ёлочки, зеленые снежинки, мандарины и маршмалоу",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
         },
         {
@@ -1184,7 +1487,7 @@
             }
           },
           "title": "Сердце",
-          "text": "Состав: скрыт от широкой общественности. В середину можно запечь обручальное кольцо!",
+          "text": "Состав: кофейный бисквитный корж, ванильный или шоколадный мусс, зеркальная глазурь.<br> В середину можно запечь обручальное кольцо! Не забудьте предупредить свою половинку, чтобы ела аккуратно.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
         },
         {
@@ -1236,8 +1539,8 @@
               "size": 0
             }
           },
-          "title": "Зеркало",
-          "text": "Состав: пена для бритья, секретный ингредиент",
+          "title": "Зеркальный мусовый торт",
+          "text": "Состав: &nbsp;кофейный бисквитный корж, ванильный или шоколадный мусс, зеркальная глазурь.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
         },
         {
@@ -1289,9 +1592,274 @@
               "size": 0
             }
           },
-          "title": "Зелёный Наполеон",
-          "text": "Состав: Наполеон, зелёный миндальный заварной крем",
+          "title": "Наполеон",
+          "text": "Состав: классический слоеный наполеон с зелёным миндальный заварным кремом и киви.&nbsp;<br>По вашему желанию изготовим классический \"Наполеон\".",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"zakaz.html\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1e",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/odo-pdzzjxo-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Мусовый торт \"Слоёный\"",
+          "text": "Состав:&nbsp;ванильный бисквит, ванильный мусс, шоколадный мусс, зеркальная шоколадная глазурь.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1f",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wvnnhmfaaci-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Торт \"Сникерс\"",
+          "text": "Состав: шоколадные коржи, карамель, арахис, крем-чиз, шоколадная глазурь",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1g",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/3qpya9rbpga-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Мусовый торт \"Сердце\"",
+          "text": "Состав: шоколадный бисквитный корж, кофейный мусс, ванильный мусс. Состав торта подбирается по желанию заказчика.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1h",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/jvgymmxf1du-1400x1400.jpg",
+              "link": "",
+              "alt": "привет",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Морковный торт",
+          "text": "Состав: мягкие пряные морковные коржи с грецким орехом, крем-чиз, шоколадная глазурь, карамелизованный апельсин.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1i",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/lxhobuq0ony-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "\"Красный бархат в изумрудном исполнении\"",
+          "text": "Состав: мягкие сочные бисквитные коржи с кремом-чизом",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
         },
         {
           "_tags": [
@@ -1319,14 +1887,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Россия, Мурманская область, г. Никель, улица Спортивная, д.8",
-              "placeId": "ChIJUXIDqNCrNEQR4oN9kHgPPis",
+              "address": "Россия, Мурманская область, г. Никель",
+              "placeId": "ChIJyZo-p3ypNEQR8eXJet5oLQA",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Адрес</b></span></font><br>Россия, Мурманская область, г. Никель, улица Спортивная, д.8<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Контакты</b></span></font><br>\nEmail: birdutka@list.ru<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">В контакте:&nbsp;vk.com/id5499756</span><br>Instagram:&nbsp;tatianapetresku<br><br>",
-          "text2": "<ul><p></p><li><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Как заказать?&nbsp;</b></span></font></li><p>&nbsp; В данный момент заказы принимаются только по телефону, в контакте, в Instagram или по электронной почте.<br></p><p>Заказывайте заранее - время требуется не только на приготовление изделия, но и на поиск ингредиентов!</p><p>Доставка Почтой России примерно 300 рублей.</p><p><br></p></ul>"
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Адрес</b></span></font><br>Россия, Мурманская область, г. Никель<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Контакты</b></span></font><br>\nEmail: birdutka@list.ru<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">В контакте:&nbsp;vk.com/id5499756</span><br>Instagram:&nbsp;tatianapetresku<br><br>",
+          "text2": "<ul><p></p><li><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Как заказать?&nbsp;</b></span></font></li><p>&nbsp; В данный момент заказы принимаются только по телефону, в контакте, в Instagram или по электронной почте.<br></p><p>Заказывайте заранее - время требуется не только на приготовление изделия, но и на поиск ингредиентов!</p><p>Доставка тортов по Никелю, Заполярному, Печенге, Мурманску. Доставка оплачивается дополнительно. Возможна, доставка пряников почтой России.</p><p><br></p></ul>"
         }
       ]
     },
@@ -1431,7 +1999,7 @@
               "size": 250
             }
           },
-          "title": "Как сделать кексулю?",
+          "title": "Как сделать кексулю?<br>В течение 1-2 часов вы с интересом приготовите пару отличных кексов",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1481,7 +2049,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"zakaz.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Заказать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/moskva-kremlj-600x327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/caption-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1491,13 +2059,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Другие города России",
+          "title2": "Заполярный",
           "subtitle2": "Цена договорная",
           "caption2": "Проведение презентаций в торговых центрах, ресторанах",
           "button2": "<a data-app-btn=\"true\" href=\"zakaz.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Заказать</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2a6d814b26043d9365ea1aa35e24daa4-600x375.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nikel2-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1636,8 +2204,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"titul.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Пряники</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#gallery3-1\">Пряники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tort.html\">Торты</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"master.html\" aria-expanded=\"false\">Мастерклассы</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\">По Мурманской области</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"zakaz.html\" aria-expanded=\"false\">Заказ и доставка</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#contacts2-w\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"zakaz.html\">Заказать</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"titul.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Пряники и торты</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#gallery3-1\">Пряники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tort.html\">Торты</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"master.html\" aria-expanded=\"false\">Мастерклассы</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"zakaz.html\" aria-expanded=\"false\">Заказ и доставка</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#contacts2-w\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"zakaz.html\">Заказать</a></li>"
         },
         {
           "_name": "footer1",
@@ -1682,14 +2250,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Россия, Мурманская область, г. Никель, улица Спортивная, д.8",
-              "placeId": "ChIJUXIDqNCrNEQR4oN9kHgPPis",
+              "address": "Россия, Мурманская область, г. Никель",
+              "placeId": "ChIJyZo-p3ypNEQR8eXJet5oLQA",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Адрес</b></span></font><br>Россия, Мурманская область, г. Никель, улица Спортивная, д.8<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Контакты</b></span></font><br>\nEmail: birdutka@list.ru<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">В контакте:&nbsp;vk.com/id5499756</span><br>Instagram:&nbsp;tatianapetresku<br><br>",
-          "text2": "<ul><p></p><li><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Как заказать?&nbsp;</b></span></font></li><p>&nbsp; В данный момент заказы принимаются только по телефону, в контакте, в Instagram или по электронной почте.<br></p><p>Заказывайте заранее - время требуется не только на приготовление изделия, но и на поиск ингредиентов!</p><p>Доставка Почтой России примерно 300 рублей.</p><p><br></p></ul>"
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Адрес</b></span></font><br>Россия, Мурманская область, г. Никель<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Контакты</b></span></font><br>\nEmail: birdutka@list.ru<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">В контакте:&nbsp;vk.com/id5499756</span><br>Instagram:&nbsp;tatianapetresku<br><br>",
+          "text2": "<ul><p></p><li><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Как заказать?&nbsp;</b></span></font></li><p>&nbsp; В данный момент заказы принимаются только по телефону, в контакте, в Instagram или по электронной почте.<br></p><p>Заказывайте заранее - время требуется не только на приготовление изделия, но и на поиск ингредиентов!</p><p>Доставка тортов по Никелю, Заполярному, Печенге, Мурманску. Доставка оплачивается дополнительно. Возможна, доставка пряников почтой России.</p><p><br></p></ul>"
         }
       ]
     },
@@ -1748,7 +2316,7 @@
           },
           "title1": "Что вы хотите к чаю?",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Напишите мне сообщение такого вида:<br>\"Иванов Иван Петрович,<br>390000, г. Рязань, ул. Ленина д.20,кв.2<br>Пряники:<br>№1 - 3 шт,&nbsp;<br>№2 - 1 шт<br>Пожелания: ...\"",
+          "caption1": "Напишите мне сообщение такого вида:<br>\"Иванов Иван Петрович,<br>390000, г. Рязань, ул. Ленина д.20,кв.2<br>Пряники:<br>№1 - 3 шт,&nbsp;<br>№2 - 1 шт<br>Пожелания: ...\" или<br>\"... Торт \"Наполеон\"... - 1 штука, массой около 1,5 -2 кг\"",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1780,7 +2348,7 @@
           },
           "title3": "Оплата",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Оплата производится по карте.&nbsp;<br>Номер карты будет указан в ответном сообщении.<br>После получения оплаты отправка производится в течение 3-5 дней (на приготовление и оформление требуется время)",
+          "caption3": "Оплата производится по карте или наличными (при самовывозе)<br>Номер карты будет указан в ответном сообщении.<br>После получения оплаты отправка &nbsp;пряников производится в течение 3-5 дней (на приготовление и оформление требуется время).<br>Изготовление торта возможно к определенной дате.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1796,7 +2364,7 @@
           },
           "title4": "Доставка",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Доставка только почтой России.<br>Стоимость для стандартного подарочного набора около 300 рублей.<br>Упаковка в жесткую картонную коробку.",
+          "caption4": "Доставка пряников и тортов по Мурманской области - самовывоз из Никеля и Заполярного. Доставка только пряников возможна почтой.<br>Стоимость почтой России для стандартного подарочного набора около 300 рублей.<br>Упаковка в жесткую картонную коробку.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1916,8 +2484,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"titul.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Пряники</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#gallery3-1\">Пряники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tort.html\">Торты</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"master.html\" aria-expanded=\"false\">Мастерклассы</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\">По Мурманской области</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"zakaz.html\" aria-expanded=\"false\">Заказ и доставка</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#contacts2-w\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"zakaz.html\">Заказать</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"titul.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Пряники и торты</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#gallery3-1\">Пряники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tort.html\">Торты</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"master.html\" aria-expanded=\"false\">Мастерклассы</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"master.html#features3-13\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"zakaz.html\" aria-expanded=\"false\">Заказ и доставка</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"titul.html#contacts2-w\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"zakaz.html\">Заказать</a></li>"
         },
         {
           "_name": "footer1",
@@ -1962,14 +2530,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Россия, Мурманская область, г. Никель, улица Спортивная, д.8",
-              "placeId": "ChIJUXIDqNCrNEQR4oN9kHgPPis",
+              "address": "Россия, Мурманская область, г. Никель",
+              "placeId": "ChIJyZo-p3ypNEQR8eXJet5oLQA",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Адрес</b></span></font><br>Россия, Мурманская область, г. Никель, улица Спортивная, д.8<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Контакты</b></span></font><br>\nEmail: birdutka@list.ru<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">В контакте:&nbsp;vk.com/id5499756</span><br>Instagram:&nbsp;tatianapetresku<br><br>",
-          "text2": "<ul><p></p><li><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Как заказать?&nbsp;</b></span></font></li><p>&nbsp; В данный момент заказы принимаются только по телефону, в контакте, в Instagram или по электронной почте.<br></p><p>Заказывайте заранее - время требуется не только на приготовление изделия, но и на поиск ингредиентов!</p><p>Доставка Почтой России примерно 300 рублей.</p><p><br></p></ul>"
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Адрес</b></span></font><br>Россия, Мурманская область, г. Никель<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Контакты</b></span></font><br>\nEmail: birdutka@list.ru<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">В контакте:&nbsp;vk.com/id5499756</span><br>Instagram:&nbsp;tatianapetresku<br><br>",
+          "text2": "<ul><p></p><li><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -0.6666666865348816px; line-height: 13.333333015441895px;\"><b>Как заказать?&nbsp;</b></span></font></li><p>&nbsp; В данный момент заказы принимаются только по телефону, в контакте, в Instagram или по электронной почте.<br></p><p>Заказывайте заранее - время требуется не только на приготовление изделия, но и на поиск ингредиентов!</p><p>Доставка тортов по Никелю, Заполярному, Печенге, Мурманску. Доставка оплачивается дополнительно. Возможна, доставка пряников почтой России.</p><p><br></p></ul>"
         }
       ]
     }
