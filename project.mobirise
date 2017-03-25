@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "titul.html",
-    "name": "Пряники",
+    "name": "Пряники и Торты от Танечки",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,10 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 55,
+    "uniqCompNum": 56,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "titul.html": {
@@ -158,7 +160,7 @@
             "showButtons": true
           },
           "title": "Прянички от Танечки",
-          "text": "Мы производим качественный домашний продукт, без \"химии\"! Доставка пряников возможна по России.&nbsp;<br>Доставка тортов возможна только по Мурманской области",
+          "text": "Мы производим качественный домашний продукт, без \"химии\"! <br>Дизайн и количество пряников в наборе можно подобрать индивидуально в зависимости от пожеланий заказчика.<br>Доставка пряников возможна по России.&nbsp;<br>Доставка тортов возможна только по Мурманской области",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"titul.html#gallery3-1\" data-toolbar=\"-mbrBtnMove\">ПРЯНИКИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tort.html\" data-toolbar=\"-mbrBtnMove\">ТОРТЫ</a>"
         },
         {
@@ -195,7 +197,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4cxhqo0az1s-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/4cxhqo0az1s-2000x1500.jpg",
-                "caption": "1. Торсы 100 рублей",
+                "caption": "1. Набор \"Торсы\" 400 рублей",
                 "active": false
               },
               {
@@ -205,7 +207,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1803-800x721.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1803.jpg",
-                "caption": "2. Птички 400 рублей",
+                "caption": "2. Набор \"Птички\" 400 рублей",
                 "active": false
               },
               {
@@ -215,7 +217,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/image-0-02-05-7af8b282b6ea7bad296c48ffeba5b71ab72d47d2874e892717da69ae5df49f33-v-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/image-0-02-05-7af8b282b6ea7bad296c48ffeba5b71ab72d47d2874e892717da69ae5df49f33-v-2000x1500.jpg",
-                "caption": "3. Сердца 500 рублей",
+                "caption": "3. Набор \"У меня есть много причин любить тебя\" 550 руб.",
                 "active": false
               },
               {
@@ -225,7 +227,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1832-800x732.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1832.jpg",
-                "caption": "4. Любимому папе 500 рублей",
+                "caption": "4. Набор \"Любимому папе\" 500 рублей",
                 "active": false
               },
               {
@@ -235,7 +237,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1637-800x654.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1637.jpg",
-                "caption": "5. Супергерой 300 рублей",
+                "caption": "5. Набор \"Супергерои\" 400 рублей",
                 "active": false
               },
               {
@@ -245,7 +247,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1981-800x792.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1981.jpg",
-                "caption": "7. Хеннесси и авто 350 рублей",
+                "caption": "7. Набор \"Хеннесси и авто\" 400 руб.",
                 "active": true
               },
               {
@@ -265,7 +267,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/image-0-02-05-d4388cef80ae90dcfd47435b2cd73a258ee21c8173ae71def656d6b58e528a2e-v-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/image-0-02-05-d4388cef80ae90dcfd47435b2cd73a258ee21c8173ae71def656d6b58e528a2e-v-2000x1500.jpg",
-                "caption": "8. Love",
+                "caption": "8. Набор \"Love\" 400 рублей",
                 "active": false
               }
             ],
@@ -298,7 +300,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1976-800x790.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x1976.jpg",
-                "caption": "9. Сердца",
+                "caption": "9. Набор \"У меня есть много причин любить тебя\" 550 руб.",
                 "active": false
               },
               {
@@ -308,7 +310,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x2024-800x809.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2000x2024.jpg",
-                "caption": "10. Хеннесси и стаканы",
+                "caption": "10. Набор \"Хеннесси\" 300 руб.",
                 "active": false
               },
               {
@@ -318,7 +320,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x2936-800x1174.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x2936.png",
-                "caption": "11. Букет",
+                "caption": "11. Букет цветов 350 руб.",
                 "active": false
               },
               {
@@ -328,8 +330,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1257-800x502.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1257.png",
-                "caption": "12. Сердечки",
-                "active": false
+                "caption": "12. Сердечко на палочке с пожеланием 110 руб",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -338,7 +340,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1676-800x670.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1676.png",
-                "caption": "15. Сердечки",
+                "caption": "15. Сердечко &nbsp;110 руб",
                 "active": false
               },
               {
@@ -348,7 +350,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1635-800x654.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1635.png",
-                "caption": "13. Птички-воробьи",
+                "caption": "13. Птичка на палочке 100 руб.",
                 "active": false
               },
               {
@@ -358,8 +360,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/23-2000x1618-800x647.png",
                 "image": "@PROJECT_PATH@/assets/images/23-2000x1618.png",
-                "caption": "14. 23 февраля",
-                "active": true
+                "caption": "14.Набор \"23 февраля\" 400 руб",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -391,7 +393,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1838-800x735.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1838.png",
-                "caption": "16. Зимнее сердце",
+                "caption": "16. Набор \"Зимнее сердце\" 500 рублей",
                 "active": false
               },
               {
@@ -401,7 +403,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1893-800x757.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1893.png",
-                "caption": "17. Велосипед с цветами",
+                "caption": "17. Велосипед с цветами 100 рублей",
                 "active": false
               },
               {
@@ -411,7 +413,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1670-800x668.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1670.png",
-                "caption": "18. Кексы",
+                "caption": "18. Капкейк на палочке 100 руб.",
                 "active": false
               },
               {
@@ -421,7 +423,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-2000x1981-800x792.png",
                 "image": "@PROJECT_PATH@/assets/images/2-2000x1981.png",
-                "caption": "19. Подарок маме 1",
+                "caption": "19. Набор \"Подарок маме 1\" 500 рублей",
                 "active": false
               },
               {
@@ -431,7 +433,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-2000x1938-800x775.png",
                 "image": "@PROJECT_PATH@/assets/images/3-2000x1938.png",
-                "caption": "23. Подарок маме 3",
+                "caption": "23. Набор \"Подарок маме 3\" 500 рублей",
                 "active": false
               },
               {
@@ -441,7 +443,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1864-800x745.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1864.png",
-                "caption": "20. Чайный набор",
+                "caption": "20. Чайный набор №2 400 руб.",
                 "active": true
               },
               {
@@ -451,7 +453,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1934-800x773.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1934.png",
-                "caption": "21. Подарок маме 2",
+                "caption": "21. Набор \"Подарок маме 2\" 500 рублей",
                 "active": false
               },
               {
@@ -461,7 +463,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1929-800x771.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1929.png",
-                "caption": "24. Подарок маме 4",
+                "caption": "24. Набор \"Подарок маме 4\" 500 рублей",
                 "active": false
               }
             ],
@@ -494,7 +496,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/image-0-02-05-d9c3d02dda401d30af2db8c94bc8017804b03da310ff8e934e3b9702da0b3856-v-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/image-0-02-05-d9c3d02dda401d30af2db8c94bc8017804b03da310ff8e934e3b9702da0b3856-v-2000x2666.jpg",
-                "caption": "25. Флаг",
+                "caption": "25. Флаг на палочке 100 руб.",
                 "active": false
               },
               {
@@ -504,7 +506,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hrizf-agym8-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hrizf-agym8-2000x1500.jpg",
-                "caption": "26. Шкатулка с сюрпризом",
+                "caption": "26. Шкатулка с сюрпризом 250 рублей",
                 "active": true
               },
               {
@@ -514,7 +516,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1625-800x650.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1625.png",
-                "caption": "27. Пляжный набор",
+                "caption": "27. Пляжный набор 300 руб.",
                 "active": false
               },
               {
@@ -524,7 +526,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/vkfvajg55l8-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/vkfvajg55l8-2000x1500.jpg",
-                "caption": "28. Восьмерочки",
+                "caption": "28. Восьмерочки 100 руб.",
                 "active": false
               },
               {
@@ -534,7 +536,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1872-800x748.png",
                 "image": "@PROJECT_PATH@/assets/images/2000x1872.png",
-                "caption": "31. Усы",
+                "caption": "31. Усы на палочке 100 руб",
                 "active": false
               },
               {
@@ -544,7 +546,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/oa0ie3-atwy-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/oa0ie3-atwy-2000x1500.jpg",
-                "caption": "30. Медали",
+                "caption": "30. Набор с медалью 300 руб.",
                 "active": false
               },
               {
@@ -554,7 +556,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/zmmd-yck8ya-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/zmmd-yck8ya-2000x1500.jpg",
-                "caption": "29. Баночки бабушке",
+                "caption": "29. Баночка для бабушки 250 руб.",
                 "active": false
               }
             ],
@@ -587,7 +589,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/5ofyqeorxtg-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/5ofyqeorxtg-2000x2000.jpg",
-                "caption": "31. Новогодние",
+                "caption": "31. Набор \"Новогодний\" 400 рублей.",
                 "active": false
               },
               {
@@ -597,8 +599,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/awnr1sod7xm-2000x1324-800x529.jpg",
                 "image": "@PROJECT_PATH@/assets/images/awnr1sod7xm-2000x1324.jpg",
-                "caption": "32. Свадебный пряник с пожеланием",
-                "active": false
+                "caption": "32. Свадебный пряник с пожеланием 110 рублей",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -607,8 +609,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fjcbbz01k8s-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fjcbbz01k8s-2000x2000.jpg",
-                "caption": "<p>33. Лавандовое сердце</p>",
-                "active": true
+                "caption": "<p>33. Лавандовое сердце 110 руб</p>",
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -617,7 +619,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/refjatqte6m-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/refjatqte6m-2000x2000.jpg",
-                "caption": "34. Снеговичок",
+                "caption": "34. Снеговичок 110 рублей",
                 "active": false
               }
             ],
@@ -692,8 +694,8 @@
           ],
           "_anchor": "testimonials1-t",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "count": 3,
             "showImages": true,
             "showName": true,
@@ -719,16 +721,16 @@
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-u",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#ffffff",
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -914,7 +916,7 @@
             "showButtons": true
           },
           "title": "Тортики от Танечки",
-          "text": "Доставка тортов ограничена Мурманской областью в связи со сложностью блюда. Все наши тортики только из домашних продуктов, состав зависит от вашего желания. Наши торты красивые и о-о-очень вкусные!!!",
+          "text": "Доставка тортов ограничена Мурманской областью в связи со сложностью блюда. Все наши тортики только из домашних продуктов, состав зависит от вашего желания. Наши торты красивые и о-о-очень вкусные!!!<br>Окончательная стоимость торта расчитывается индивидуально в зависимости от массы, начинки и декора.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"titul.html\" data-toolbar=\"-mbrBtnMove\">Пряники</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tort.html#features3-j\" data-toolbar=\"-mbrBtnMove\">Тортики</a>"
         },
         {
@@ -958,7 +960,7 @@
             }
           },
           "title1": "Гранатовый забор",
-          "subtitle1": "1000 рублей",
+          "subtitle1": "600 руб/кг+стоимость декора",
           "caption1": "Шикарный мусовый торт для приятной домашней посиделки в хорошей компании.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media2": {
@@ -974,7 +976,7 @@
             }
           },
           "title2": "Бисквитно-сливочный торт",
-          "subtitle2": "2000 рублей/ 40 euro",
+          "subtitle2": "600 руб/кг+стоимость декора",
           "caption2": "Клубника со сливками, ммм...",
           "button2": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-o\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media3": {
@@ -990,7 +992,7 @@
             }
           },
           "title3": "Новогодняя ночь",
-          "subtitle3": "2000 рублей",
+          "subtitle3": "600 руб/кг+стоимость декора",
           "caption3": "<p>Здесь все по новогоднему: запах мандаринов и ёлочки! М-м-м!</p>",
           "button3": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media4": {
@@ -1006,7 +1008,7 @@
             }
           },
           "title4": "Сникерс",
-          "subtitle4": "2500 рублей",
+          "subtitle4": "600 руб/кг+стоимость декора",
           "caption4": "Торт для энергичных и удачных людей, которые везде успевают.",
           "button4": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1f\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media5": {
@@ -1083,7 +1085,7 @@
             }
           },
           "title1": "Наполеон",
-          "subtitle1": "",
+          "subtitle1": "700 руб/кг+стоимость декора",
           "caption1": "с заварным кремом со вкусом фисташкового мороженого",
           "button1": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media2": {
@@ -1099,7 +1101,7 @@
             }
           },
           "title2": "Морковный торт",
-          "subtitle2": "",
+          "subtitle2": "600 руб/кг+стоимость декора",
           "caption2": "В левую руку возьмём обычную морковку, а в правую кусочек этого торта... Да-да, они родственники.<br>И более того - это очень вкусно.",
           "button2": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media3": {
@@ -1115,7 +1117,7 @@
             }
           },
           "title3": "Красный бархат в изумрудном исполнении",
-          "subtitle3": "",
+          "subtitle3": "600 руб/кг+стоимость декора",
           "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Мягкие сочные нежные коржи с крем-чизом</span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media4": {
@@ -1131,7 +1133,7 @@
             }
           },
           "title4": "Муссовый торт \"Слоеный\"",
-          "subtitle4": "",
+          "subtitle4": "600 руб/кг+стоимость декора",
           "caption4": "Шоколадный и ванильный муссы на нежном бисквитном корже никого не оставят равнодушными. Поистине, райское наслаждение.",
           "button4": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media5": {
@@ -1201,8 +1203,8 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Сердце",
-          "subtitle1": "Мусовый торт",
+          "title1": "Мусовый торт \"Сердце\"",
+          "subtitle1": "от 1000 рублей",
           "caption1": "Не нужно слов, чтобы выразить свои чувства.",
           "button1": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-q\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media2": {
@@ -1217,8 +1219,8 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Сердце",
-          "subtitle2": "Мусовый торт",
+          "title2": "Мусовый торт \"Сердце\"",
+          "subtitle2": "от 1000 рублей",
           "caption2": "Необычный способ заявить о себе. Состав торта подбирается по желанию заказчика. Это может быть и кофейный бисквит, и обычный. Муссы также могут отличаться: ванильный или шоколадный",
           "button2": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media3": {
@@ -1234,7 +1236,7 @@
             }
           },
           "title3": "Зеркальный мусовый торт",
-          "subtitle3": "",
+          "subtitle3": "от 1000 рублей",
           "caption3": "Нежный бисквитный корж с шоколадным или ванильным муссом. Да еще и зеркальная глазурь.",
           "button3": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-s\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media4": {
@@ -1250,9 +1252,9 @@
             }
           },
           "title4": "Медовик",
-          "subtitle4": "",
+          "subtitle4": "700 руб./кг+стоимость декора<br>",
           "caption4": "Классические медовые коржи пропитанные нежным сметанным кремом",
-          "button4": "<a data-app-btn=\"true\" href=\"zakaz.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Заказать</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"tort.html#msg-box5-1j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Заказать</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1329,7 +1331,7 @@
           },
           "title": "Гранатовый забор",
           "text": "Состав: ванильные коржи, вишневое суфле, сливочно-творожный крем<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать: 600 руб/кг+стоимость декора</a>"
         },
         {
           "_tags": [
@@ -1382,7 +1384,7 @@
           },
           "title": "Бисквитно-сливочный торт",
           "text": "Состав: ванильный бисквит, сливочно-творожный крем. Фрукты/ягоды",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать: 600 руб/кг+стоимость декора</a>"
         },
         {
           "_tags": [
@@ -1435,7 +1437,7 @@
           },
           "title": "Новогодняя ночь",
           "text": "Состав: морковный торт с новогодним оформлением: ёлочки, зеленые снежинки, мандарины и маршмалоу",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать: 600 руб/кг+стоимость декора</a>"
         },
         {
           "_tags": [
@@ -1488,7 +1490,7 @@
           },
           "title": "Сердце",
           "text": "Состав: кофейный бисквитный корж, ванильный или шоколадный мусс, зеркальная глазурь.<br> В середину можно запечь обручальное кольцо! Не забудьте предупредить свою половинку, чтобы ела аккуратно.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать от 1000 рублей</a>"
         },
         {
           "_tags": [
@@ -1541,7 +1543,7 @@
           },
           "title": "Зеркальный мусовый торт",
           "text": "Состав: &nbsp;кофейный бисквитный корж, ванильный или шоколадный мусс, зеркальная глазурь.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать от 1000 рублей</a>"
         },
         {
           "_tags": [
@@ -1594,7 +1596,7 @@
           },
           "title": "Наполеон",
           "text": "Состав: классический слоеный наполеон с зелёным миндальный заварным кремом и киви.&nbsp;<br>По вашему желанию изготовим классический \"Наполеон\".",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"zakaz.html\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"zakaz.html\" data-toolbar=\"-mbrBtnMove\">Заказать: 700 руб/кг+стоимость декора</a>"
         },
         {
           "_tags": [
@@ -1647,7 +1649,7 @@
           },
           "title": "Мусовый торт \"Слоёный\"",
           "text": "Состав:&nbsp;ванильный бисквит, ванильный мусс, шоколадный мусс, зеркальная шоколадная глазурь.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать: 600 руб/кг+стоимость декора</a>"
         },
         {
           "_tags": [
@@ -1700,7 +1702,7 @@
           },
           "title": "Торт \"Сникерс\"",
           "text": "Состав: шоколадные коржи, карамель, арахис, крем-чиз, шоколадная глазурь",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать: 600 руб/кг+стоимость декора</a>"
         },
         {
           "_tags": [
@@ -1753,7 +1755,7 @@
           },
           "title": "Мусовый торт \"Сердце\"",
           "text": "Состав: шоколадный бисквитный корж, кофейный мусс, ванильный мусс. Состав торта подбирается по желанию заказчика.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать от 1000 рублей</a>"
         },
         {
           "_tags": [
@@ -1806,7 +1808,7 @@
           },
           "title": "Морковный торт",
           "text": "Состав: мягкие пряные морковные коржи с грецким орехом, крем-чиз, шоколадная глазурь, карамелизованный апельсин.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать: 600 руб/кг+стоимость декора</a>"
         },
         {
           "_tags": [
@@ -1859,7 +1861,60 @@
           },
           "title": "\"Красный бархат в изумрудном исполнении\"",
           "text": "Состав: мягкие сочные бисквитные коржи с кремом-чизом",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tort.html#contacts2-z\" data-toolbar=\"-mbrBtnMove\">Заказать: 600 руб/кг+стоимость декора</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1j",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/zz-r8asaa7a-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Торт \"Медовик\"",
+          "text": "Состав: классические медовые коржи пропитанные нежным сметанным кремом",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"zakaz.html\" data-toolbar=\"-mbrBtnMove\">Заказать за 700 руб/кг+стоимость декора<br></a>"
         },
         {
           "_tags": [
