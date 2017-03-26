@@ -489,6 +489,9 @@ h6,
 #header1-1 .mbr-section-title {
   text-align: center;
 }
+#footer1-2 P {
+  color: #7c706b;
+}
 #contacts2-w UL {
   color: #c1c1c1;
   font-family: 'Lora', serif;

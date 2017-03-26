@@ -178,7 +178,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 ionov."
+          "text": "Торты в Никеле, Никель, торты в Заполярном, Торты в Мурманске, Торты в Алакуртти Copyright (c) 2017 ionov. Пряники в Никеле, Заполярном, Мурманске, Ковдоре",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
