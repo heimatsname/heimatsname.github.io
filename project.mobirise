@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "titul.html",
-    "name": "Пряники и Торты от Танечки",
+    "name": "Пряники и Торты в Никеле, Заполярном, Печенге",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": ""
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-96379037-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "titul.html": {
@@ -47,7 +47,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "17px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -56,10 +56,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -101,7 +101,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -159,12 +159,17 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Прянички от Танечки",
-          "text": "Мы производим качественный домашний продукт, без \"химии\"! <br>Дизайн и количество пряников в наборе можно подобрать индивидуально в зависимости от пожеланий заказчика.<br>Доставка пряников возможна по России.&nbsp;<br>Доставка тортов возможна только по Мурманской области",
+          "title": "Прянички от Танечки&nbsp;",
+          "text": "Мы производим качественный домашний продукт, без \"химии\"! <br>Дизайн и количество пряников в наборе можно подобрать индивидуально в зависимости от пожеланий заказчика.<br>Доставка пряников возможна по России.&nbsp;<br>Доставка тортов возможна только по Мурманской области<br>Самовывоз из Никеля.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"titul.html#gallery3-1\" data-toolbar=\"-mbrBtnMove\">ПРЯНИКИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tort.html\" data-toolbar=\"-mbrBtnMove\">ТОРТЫ</a>"
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -178,12 +183,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Торты в Никеле, Никель, торты в Заполярном, Торты в Мурманске, Торты в Алакуртти Copyright (c) 2017 ionov. Пряники в Никеле, Заполярном, Мурманске, Ковдоре",
-          "_styles": {
-            "P": {
-              "color": "#7c706b"
-            }
-          }
+          "text": "Торты в Никеле, Никель, торты в Заполярном, Торты в Мурманске, Торты в Алакуртти Copyright (c) 2017 Severtort. Пряники в Никеле, Заполярном, Мурманске, Ковдоре"
         },
         {
           "_inherit": "gallery1",
@@ -803,10 +803,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -848,7 +848,7 @@
           "_anchor": "menu-7",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -893,7 +893,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 ionov."
+          "text": "Торты в Никеле, Никель, торты в Заполярном, Торты в Мурманске, Торты в Алакуртти Copyright (c) 2017 Severtort. Пряники в Никеле, Заполярном, Мурманске, Ковдоре"
         },
         {
           "_tags": [
@@ -920,8 +920,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Тортики от Танечки",
-          "text": "Доставка тортов ограничена Мурманской областью в связи со сложностью блюда. Все наши тортики только из домашних продуктов, состав зависит от вашего желания. Наши торты красивые и о-о-очень вкусные!!!<br>Окончательная стоимость торта расчитывается индивидуально в зависимости от массы, начинки и декора.",
+          "title": "Торты в Никеле, Заполярном и Печенге",
+          "text": "Все наши тортики только из домашних продуктов, состав зависит от вашего желания. Наши торты красивые и о-о-очень вкусные!!!<br>Окончательная стоимость торта расчитывается индивидуально в зависимости от массы, начинки и декора.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"titul.html\" data-toolbar=\"-mbrBtnMove\">Пряники</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tort.html#features3-j\" data-toolbar=\"-mbrBtnMove\">Тортики</a>"
         },
         {
@@ -2237,7 +2237,7 @@
           "_anchor": "menu-x",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2282,7 +2282,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 ionov."
+          "text": "Торты в Никеле, Никель, торты в Заполярном, Торты в Мурманске, Торты в Алакуртти Copyright (c) 2017 Severtort. Пряники в Никеле, Заполярном, Мурманске, Ковдоре"
         },
         {
           "_tags": [
@@ -2517,7 +2517,7 @@
           "_anchor": "menu-16",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2562,7 +2562,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 ionov."
+          "text": "Торты в Никеле, Никель, торты в Заполярном, Торты в Мурманске, Торты в Алакуртти Copyright (c) 2017 Severtort. Пряники в Никеле, Заполярном, Мурманске, Ковдоре"
         },
         {
           "_tags": [
