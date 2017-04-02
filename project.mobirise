@@ -650,7 +650,7 @@
               "text": "<p>Это очень вкусно!!!</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/fpkxeueo5qm4-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -668,11 +668,15 @@
               "text": "Когда ела этот пряник - плакала! Такая красота!!!",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/h7o-a2qij4rw-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               },
               "authorName": "Александра",
@@ -682,7 +686,7 @@
               "text": "<p>Красивые пряники с имбирным вкусом, очень приятно было получить этот подарок на новый год!</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/rr3snz1-pvw-120x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/rr3snz1-pvw-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
